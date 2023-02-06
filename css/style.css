@@ -1,0 +1,42 @@
+body {
+  background-color: #B6EADA;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#301E67;
+  border-width: 10px;
+  width: 5%;
+}
+
+img {
+  height: 250px;
+  background-color:rgba(33, 212, 212, 0.678);
+  border-style: outset;
+  border-color: black;
+  border-width: 5pt;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #301E67;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table_skills {
+    align-items: center;
+
+}
+
+table{
+    align-items: center;
+}
